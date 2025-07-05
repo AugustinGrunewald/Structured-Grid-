@@ -1,4 +1,4 @@
-# Structured-Grid
+# Structured Grid
 General class for modeling “4-sided” domains and structured grids on them. Cpp short project during my studies at KTH.
 Files : timer.hpp and plotdomain.py were given for the project.
 
