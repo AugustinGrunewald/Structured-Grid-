@@ -13,6 +13,6 @@ See the pdf report to get a bit of the math behind this grid generation !
 
 # Example of results
 Here is an example of the results you could obtain for two differents 4 sides domains.
-![Rectangle](Figure_1.png)
-![Modified Rectangle](Figure_4.png)
+![Rectangle](Illustration/Figure_1.png)
+![Modified Rectangle](Illustration/Figure_4.png)
 
