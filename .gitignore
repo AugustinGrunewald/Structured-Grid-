@@ -1,0 +1,17 @@
+# === Executables ===
+main
+
+# === VS Code configuration directory ===
+.vscode/
+
+# === Txt/png files that are created when execution (keep images for ReadMe illustration) ===
+*.txt
+!requirements.txt
+*.png
+!Figure_1.png
+!Figure_4.png
+
+# === Other (keep pdf report for a bit of the maths behind) ===
+*.pdf
+!Assignement3.pdf
+**/.DS_Store
